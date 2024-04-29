@@ -11,6 +11,7 @@
 - Stil reicht von rein sachlich argumentierend über subjektiv
   kritisch bis hin zu polemisch oder provozierend (jedoch keine
   Beschimpfungen oder Beleidigungen)
+- <b>Ich-Botschaften</b>
 
 ## Gliederung
 ### Einleitung
