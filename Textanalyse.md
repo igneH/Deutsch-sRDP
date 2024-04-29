@@ -31,12 +31,12 @@
 Obwhol die Gliederung der Textanalyse <b>normalerweise keine Zusammenfassung</b> des Inhalts vorsieht, <b>kann es</b> jedoch <b>sein</b>, dass diese bei der schriftlichen Reife- und Diplomprüfung - von Ihnen <b>gefordert wird</b> 
 
 ## Bsp. für eine Textanalyse
-![TextanalyseAusgangstext](/D/DBilder/BspZusammenfassungAusgangstext.png)<br>
-![Textanalyse](/D/DBilder/BspTextanalyse.png)
+![TextanalyseAusgangstext](/DBilder/BspZusammenfassungAusgangstext.png)<br>
+![Textanalyse](/DBilder/BspTextanalyse.png)
 
 ## TIPPS fürs Planen
-- Lesen Sie</b> dei Aufgabenstellung aufmerksam durch</b> und stellen Sie fest, welche Schreibhandlungen</b> die Operatoren</b> von Ihnen verlangen.
-- Befassen Sie sich mit dem Aufbau der Textbeilage</b> (Zwischenüberschriften, Absätze).
-- Untersuchen Sie den Inhalt des Textes</b>: Was sind die zentrale Behauptung</b> und Schlussfolgerung</b> der Autorin / des Autors und welche Absicht</b> verfolgt sie / er mit dem Text? (z.B. informieren, zum Nachdenken anregen, Kritik üben etc.)
-- Markieren Sie besondere sprachliche Formulierungen</b> und rhetorische Mittel</b>; untersuchen Sie den Satzbau</b> und den Scrheibstil</b> (ironisch, kritisch, sachlich etc.).
-- Planen Sie Ihre Textanalyse: Erstellen Sie eine Gliederung</b>
+- <b>Lesen Sie die Aufgabenstellung aufmerksam durch</b> und stellen Sie fest, welche <b>Schreibhandlungen</b> die <b>Operatoren</b> von Ihnen verlangen.
+- Befassen Sie sich mit dem <b>Aufbau der Textbeilage</b> (Zwischenüberschriften, Absätze).
+- Untersuchen Sie den <b>Inhalt des Textes</b>: Was sind die <b>zentrale Behauptung</b> und <b>Schlussfolgerung</b> der Autorin / des Autors und <b>welche Absicht</b> verfolgt sie / er mit dem Text? (z.B. informieren, zum Nachdenken anregen, Kritik üben etc.)
+- Markieren Sie besondere <b>sprachliche Formulierungen</b> und <b>rhetorische Mittel</b>; untersuchen Sie den <b>Satzbau</b> und den <b>Schreibstil</b> (ironisch, kritisch, sachlich etc.).
+- Planen Sie Ihre Textanalyse: <b>Erstellen Sie eine Gliederung</b>

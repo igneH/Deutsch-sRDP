@@ -20,8 +20,8 @@
 - 270-300 Wörter
 
 ## Bsp. für eine Zusammenfassung
-![Zusammenfassung Ausgangstext](/D/DBilder/BspZusammenfassungAusgangstext.png)<br>
-![Zusammenfassung](/D/DBilder/BspZusammenfassung.png)
+![Zusammenfassung Ausgangstext](/DBilder/BspZusammenfassungAusgangstext.png)<br>
+![Zusammenfassung](/DBilder/BspZusammenfassung.png)
 
 ## TIPPS fürs Planen
 - Kären Sie im Vorfeld Ihnen unbekannte Begriffe.

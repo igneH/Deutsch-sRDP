@@ -1,10 +1,10 @@
 # Agenda
 - Textsorten
-    - [Zusammenfassung](/D/Zusammenfassung.md "Zur Zusammenfassung")
-    - [Textanalyse](/D/Textanalyse.md "Zur Textanalyse")
-    - [Textinterpretation](/D/Textinterpretation.md "Zur Textinterpretation")
-    - [Erörterung](/D/Erörterung.md "Zur Erörterung")
-    - [Leserbrief](/D/Leserbrief.md "Zum Leserbrief")
-    - [Kommentar](/D/Kommentar.md "Zum Kommentar")
-    - [Meinuntsrede](/D/Meinungsrede.md "Zur Meinungsrede")
+    - [Zusammenfassung](/Zusammenfassung.md "Zur Zusammenfassung")
+    - [Textanalyse](/Textanalyse.md "Zur Textanalyse")
+    - [Textinterpretation](/Textinterpretation.md "Zur Textinterpretation")
+    - [Erörterung](/Erörterung.md "Zur Erörterung")
+    - [Leserbrief](/Leserbrief.md "Zum Leserbrief")
+    - [Kommentar](/Kommentar.md "Zum Kommentar")
+    - [Meinungsrede](/Meinungsrede.md "Zur Meinungsrede")
 - Operatoren
