@@ -30,8 +30,14 @@
 - Zusammenfassung/Ausblick/Appell
 
 ## Umfang bei der sRDP
-- 405 - 495 Wörter
-- 540 - 660 Wörter
+- 405-495 Wörter
+- 540-660 Wörter
+
+## Bsp. für Meinungsrede
+![BspMeinungsredeAusgangstext1](/DBilder/BspMeinungsredeAusgangstext1.png)
+![BspMeinungsredeAusgangstext2](/DBilder/BspMeinungsredeAusgangstext2.png)
+![BspMeinungsrede1](/DBilder/BspMeinungsrede1.png)
+![BspMeinungsrede2](/DBilder/BspMeinungsrede2.png)
 
 ## TIPPS fürs Planen
 - Beachten Sie die Ausgangssituation

@@ -34,9 +34,14 @@
 - Schluss mit einer klaren Positionierung
 
 ## Umfang
-- 270 - 330 Wörter
-- 405 - 495 Wörter
-- 540 - 660 Wörter
+- 270-330 Wörter
+- 405-495 Wörter
+- 540-660 Wörter
+
+## Bsp. für einen Kommentar
+![BspKommentarAusgangstext1](/DBilder/BspKommentarAusgangstext1.png)<br>
+![BspKommentarAusgangstext2](/DBilder/BspKommentarAusgangstext2.png)<br>
+![BspKommentar](/DBilder/BspKommentar.png)
 
 ## TIPPS fürs Planen
 - Stellen Sie sicher, dass Sie die Aufgabenstellung zu hundert Prozent verstehen!
