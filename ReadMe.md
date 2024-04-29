@@ -8,3 +8,6 @@
     - [Kommentar](/Kommentar.md "Zum Kommentar")
     - [Meinungsrede](/Meinungsrede.md "Zur Meinungsrede")
 - Operatoren
+    - [Operatoren-Reproduktion](/Operatoren-Reproduktion.md)
+    - [Operatoren-Reorganisation-Transfer](/Operatoren-Reorganisation-Transfer.md)
+    - [Operatoren-Reflexion-Problemlösung](/Operatoren-Reflexion-Problemlösung.md)
