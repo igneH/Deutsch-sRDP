@@ -1,12 +1,19 @@
 # Agenda
 - Textsorten
     - [Zusammenfassung](/Zusammenfassung.md "Zur Zusammenfassung")
+        - [Video](https://studyflix.de/deutsch/zusammenfassung-schreiben-3833 "Studyflix Zusammenfassung schreiben")
     - [Textanalyse](/Textanalyse.md "Zur Textanalyse")
+        - [Video](https://studyflix.de/deutsch/textanalyse-2747 "Studyflix Textanalyse")
     - [Textinterpretation](/Textinterpretation.md "Zur Textinterpretation")
+        - [Video](https://studyflix.de/deutsch/interpretation-schreiben-2822 "Studyflix Interpretation schreiben")
     - [Erörterung](/Erörterung.md "Zur Erörterung")
+        - [Video](https://studyflix.de/deutsch/erorterung-schreiben-2788 "Studyflix Erörterung schreiben")
     - [Leserbrief](/Leserbrief.md "Zum Leserbrief")
+        - [Video](https://studyflix.de/deutsch/leserbrief-schreiben-2668 "Studyflix Leserbrief schreiben")
     - [Kommentar](/Kommentar.md "Zum Kommentar")
+        - [Video](https://studyflix.de/deutsch/kommentar-schreiben-2763 "Studyflix Kommentar schreiben")
     - [Meinungsrede](/Meinungsrede.md "Zur Meinungsrede")
+        - [Video](https://studyflix.de/deutsch/rede-schreiben-7092 "Studyflix Rede schreiben")
 - Operatoren
     - [Operatoren-Reproduktion](/Operatoren-Reproduktion.md)
     - [Operatoren-Reorganisation-Transfer](/Operatoren-Reorganisation-Transfer.md)
