@@ -31,7 +31,7 @@
 Obwhol die Gliederung der Textanalyse <b>normalerweise keine Zusammenfassung</b> des Inhalts vorsieht, <b>kann es</b> jedoch <b>sein</b>, dass diese bei der schriftlichen Reife- und Diplomprüfung - von Ihnen <b>gefordert wird</b> 
 
 ## Bsp. für eine Textanalyse
-![TextanalyseAusgangstext](/DBilder/BspZusammenfassungAusgangstext.png)<br>
+![TextanalyseAusgangstext](/DBilder/BspTextanalyseAusgangstext.png)<br>
 ![Textanalyse](/DBilder/BspTextanalyse.png)
 
 ## TIPPS fürs Planen
